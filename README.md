@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Ankitha Suresh
-  
-- 🌱 I’m currently learning SpringBoot and Golang
+- 👋 Hi, I’m Ankitha Suresh 
   
 - 📫 How to reach me ankithasures@umass.edu
   
